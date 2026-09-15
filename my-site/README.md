@@ -96,7 +96,6 @@ Every `.md` file becomes a page, at a URL that mirrors its file path:
 A folder's `index.md` becomes that folder's own page. Nest folders as deep
 as you like.
 
-<<<<<<< HEAD
 **One gotcha:** for an `index.md` inside a subfolder (like `notes/index.md`),
 add an explicit `permalink` in its front matter pointing at the folder:
 
@@ -112,8 +111,6 @@ Without it, Jekyll's automatic "pretty" URL logic can turn it into
 URL anything links to. Flat files like `about.md` don't need this, only
 `index.md` files inside folders.
 
-=======
->>>>>>> a3a739deac582d88363d5435972a2c971548d11e
 **There is no automatic navigation menu.** Pages link to each other because
 you write the links, inside the Markdown, using the `relative_url` pattern
 shown above. `index.md` is set up as a hand-curated table of contents —

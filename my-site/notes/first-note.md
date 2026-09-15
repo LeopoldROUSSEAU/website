@@ -1,9 +1,6 @@
 ---
 title: "First Note"
-<<<<<<< HEAD
 permalink: /notes/first-note/
-=======
->>>>>>> a3a739deac582d88363d5435972a2c971548d11e
 ---
 
 This page lives at `notes/first-note.md`, and is served at `/notes/first-note/`.
