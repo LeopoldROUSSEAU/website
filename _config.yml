@@ -1,0 +1,21 @@
+title: "My Site"
+description: "A small collection of hand-edited pages."
+
+# If your Pages URL looks like https://USERNAME.github.io/REPO-NAME/,
+# set this to "/REPO-NAME" (leading slash, no trailing slash).
+#
+# If your Pages URL is https://USERNAME.github.io/ directly (a repo
+# literally named USERNAME.github.io), leave this blank.
+#
+# Getting this wrong is the #1 cause of "404 / There isn't a GitHub
+# Pages site here" on project repos — every internal link on the site
+# depends on this being correct.
+baseurl: ""
+
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
