@@ -10,7 +10,7 @@ description: "A small collection of hand-edited pages."
 # Getting this wrong is the #1 cause of "404 / There isn't a GitHub
 # Pages site here" on project repos — every internal link on the site
 # depends on this being correct.
-baseurl: ""
+baseurl: "/website"
 
 permalink: pretty
 
