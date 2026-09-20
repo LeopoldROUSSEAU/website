@@ -1,8 +1,6 @@
 ---
 title: "National Parks"
 ---
-
-National Parks
 <br>
 USA
  - Joshua Tree
@@ -26,6 +24,6 @@ USA
  - Crater Lake
 <br>
 <br>
- France
+France
  - Vanoise
  - Port-Cros
